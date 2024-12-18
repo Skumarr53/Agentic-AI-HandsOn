@@ -2,7 +2,7 @@
 About: This repository provides comprehensive resources for learning Agentic AI, including blogs, tutorials, and projects that will help you master generative AI and develop industry-grade applications.
 This repository is your one-stop resource for mastering Agentic AI, a domain of artificial intelligence that focuses on building autonomous AI agents. From understanding the foundational concepts to building industry-ready AI agents, this repository includes blogs, tutorials, and projects to guide you every step of the way. Let us get started!
 
-# **✅ What’s inside the repository?**
+## **✅ What’s inside the repository?**
 
 Gain access to resources that cover:
 
@@ -11,7 +11,7 @@ Gain access to resources that cover:
 - Tutorials to build an AI agent from scratch or integrate it with large language models (LLMs).
 - Hands-on projects to develop your skills in designing and deploying Agentic AI solutions.
 
-# **📚 Table of Contents**
+## **📚 Table of Contents**
 
 | **Topics**                  | **Description**                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------|
@@ -22,12 +22,12 @@ Gain access to resources that cover:
 | **Applications of Agentic AI** | Discover how AI agents are being used across industries.                     |
 | **AI Agent Projects**          | Practical projects to get hands-on experience.     
 
-# **📚 Fundamentals of Agentic AI**  
+## **📚 Fundamentals of Agentic AI**  
 Discover the basics of AI agents and how they work.
 
 📝[What is Agentic AI](<https://blogs.nvidia.com/blog/what-is-agentic-ai/>)
 
-# **🌐 Types of AI Agents**
+## **🌐 Types of AI Agents**
 
 Explore the various categories of AI agents and their characteristics.  
 - 📝[Types of AI Agents](<https://www.projectpro.io/article/types-of-ai-agents/1066>)
