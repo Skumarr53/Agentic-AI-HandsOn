@@ -22,6 +22,8 @@ Gain access to resources that cover:
 | **Applications of Agentic AI** | Discover how AI agents are being used across industries.                     |
 | **AI Agent Projects**          | Practical projects to get hands-on experience.     
 
+# Agentic AI Learning Resources
+
 ## **📚 Fundamentals of Agentic AI**  
 Discover the basics of AI agents and how they work.
 
