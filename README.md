@@ -27,19 +27,20 @@ Discover the basics of AI agents and how they work.
 
 📝[What is Agentic AI](<https://blogs.nvidia.com/blog/what-is-agentic-ai/>)
 
-##🌐 Types of AI Agents** 
+# **🌐 Types of AI Agents**
+
 Explore the various categories of AI agents and their characteristics.  
-📝 [Types of AI Agents](<https://www.projectpro.io/article/types-of-ai-agents/1066>)
+- 📝[Types of AI Agents](<https://www.projectpro.io/article/types-of-ai-agents/1066>)
 
 ## **🤖 AI Agent Frameworks**  
 Learn about the best tools and libraries for building AI agents.  
-📝 [AI Agent Frameworks](<https://www.projectpro.io/article/ai-agent-frameworks/1068>) 
+- 📝 [AI Agent Frameworks](<https://www.projectpro.io/article/ai-agent-frameworks/1068>) 
 
-📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
+- 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
 
 ## **🧠 Building and Deploying AI Agents**  
 Step-by-step guides and tutorials to help you create robust AI agents.  
-📝 [How to Build an AI Agent from Scratch](<https://www.projectpro.io/article/how-to-build-an-ai-agent-from-scratch/1072>)
+- 📝 [How to Build an AI Agent from Scratch](<https://www.projectpro.io/article/how-to-build-an-ai-agent-from-scratch/1072>)
 
 ## **🌟 Applications and Use Cases**  
 Explore how Agentic AI is transforming industries.  
@@ -64,11 +65,17 @@ Hands-on learning is the best way to master Agentic AI! Start with these beginne
 Get started with these amazing freebies!  
 📄 [Artificial Intelligence Project Idea](<https://www.projectpro.io/free-learning-resources/artificial-intelligence-mini-project-pdf>)
 
-To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path. ✅
+To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
 
-## **💬 Contact Us**  
+<p align="center">
+  <a href="https://www.projectpro.io/learning-paths/generative-ai-learning-path" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Check%20out%20the%20learning%20path-28a745?style=for-the-badge&logo=none&logoColor=white" alt="Check out the learning path">
+  </a>
+</p>
+
+## 💬 Contact Us  
 Have questions or suggestions, or you just want to check out our projects? Reach out to us:  
 👉 **Email**: care@projectpro.io  
-👉 **Check out our Website**: [ProjectPro](https://www.projectpro.io/)  
+👉 **Check out our Website**: [https://www.projectpro.io/](https://www.projectpro.io/)  
 
 See you inside! 👋
