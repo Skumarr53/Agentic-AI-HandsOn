@@ -27,7 +27,7 @@ Gain access to resources that cover:
 ## **📚 Fundamentals of Agentic AI**  
 Discover the basics of AI agents and how they work.
 
-- 📝[What is Agentic AI](<https://blogs.nvidia.com/blog/what-is-agentic-ai/>)
+- 📝[What are Agentic AI](<https://www.projectpro.io/article/ai-agents/1076>)
 
 ## **🌐 Types of AI Agents**
 
@@ -43,6 +43,9 @@ Learn about the best tools and libraries for building AI agents.
 ## **🧠 Building and Deploying AI Agents**  
 Step-by-step guides and tutorials to help you create robust AI agents.  
 - 📝 [How to Build an AI Agent from Scratch](<https://www.projectpro.io/article/how-to-build-an-ai-agent-from-scratch/1072>)
+- 📝 [How to Build Multi-Agent AI Systems for Your Next AI Project?](<https://www.projectpro.io/article/multi-agent-ai/1083>)
+- 📝 [How to Build AI Agents with Phidata?](<https://www.projectpro.io/article/phidata-ai-agents/1090>)
+
 
 ## **🌟 Applications and Use Cases**  
 Explore how Agentic AI is transforming industries.  
