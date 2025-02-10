@@ -28,6 +28,7 @@ Gain access to resources that cover:
 Discover the basics of AI agents and how they work.
 
 - 📝[What are Agentic AI](<https://www.projectpro.io/article/ai-agents/1076>)
+- 📝[How to learn about AI Agents](<https://www.projectpro.io/article/agentic-ai-learning-path/1091>)
 
 ## **🌐 Types of AI Agents**
 
@@ -46,6 +47,10 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [How to Build Multi-Agent AI Systems for Your Next AI Project?](<https://www.projectpro.io/article/multi-agent-ai/1083>)
 - 📝 [How to Build an AI Agent with Pydantic AI?](<https://www.projectpro.io/article/pydantic-ai/1088>)
 - 📝 [How to How to Build AI Agents with Phidata?](<https://www.projectpro.io/article/phidata-ai-agents/1090>)
+- 📝 [How to How to Build a custom AI Agent?](<https://www.projectpro.io/article/how-to-build-a-custom-ai-agent/1096>)
+- 📝 [How to Build an LLM-Powered Data Analysis Agent?](<https://www.projectpro.io/article/llm-data-analysis-agent/1093>)
+- 📝 [How to Build an AI Agent with CrewAI?](<https://www.projectpro.io/article/build-an-ai-agent-with-crewai/1095>)
+- 📝 [Hoe to Build an LLM Agent using OpenAI API](<https://www.projectpro.io/article/llm-agents/1013>)
 
 
 ## **🌟 Applications and Use Cases**  
