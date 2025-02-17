@@ -50,19 +50,17 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [How to How to Build a custom AI Agent?](<https://www.projectpro.io/article/how-to-build-a-custom-ai-agent/1096>)
 - 📝 [How to Build an LLM-Powered Data Analysis Agent?](<https://www.projectpro.io/article/llm-data-analysis-agent/1093>)
 - 📝 [How to Build an AI Agent with CrewAI?](<https://www.projectpro.io/article/build-an-ai-agent-with-crewai/1095>)
-- 📝 [Hoe to Build an LLM Agent using OpenAI API](<https://www.projectpro.io/article/llm-agents/1013>)
+- 📝 [How to Build an LLM Agent using OpenAI API](<https://www.projectpro.io/article/llm-agents/1013>)
+- 📝 [How to Build Generative AI Applications](https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098)
+
 
 
 ## **🌟 Applications and Use Cases**  
 Explore how Agentic AI is transforming industries.  
 - 📝 [Artificial Intelligence Project Ideas](<https://www.projectpro.io/article/artificial-intelligence-project-ideas/461>)
-
 - 📝 [AI Agent Projects](<https://www.projectpro.io/article/ai-agent-projects/1060>)
-
 - 📝 [Generative AI Projects](<https://www.projectpro.io/article/generative-ai-projects/1004>)
-
 - 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
-
 - 📝 [LLM Project Ideas](<https://www.projectpro.io/article/llm-project-ideas/881>)
 
 ## **🚀 Projects to Elevate Your Learning**  
