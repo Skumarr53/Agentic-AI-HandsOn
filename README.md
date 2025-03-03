@@ -38,7 +38,6 @@ Explore the various categories of AI agents and their characteristics.
 ## **🤖 AI Agent Frameworks**  
 Learn about the best tools and libraries for building AI agents.  
 - 📝 [AI Agent Frameworks](<https://www.projectpro.io/article/ai-agent-frameworks/1068>) 
-
 - 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
 
 ## **🧠 Building and Deploying AI Agents**  
@@ -51,9 +50,8 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [How to Build an LLM-Powered Data Analysis Agent?](<https://www.projectpro.io/article/llm-data-analysis-agent/1093>)
 - 📝 [How to Build an AI Agent with CrewAI?](<https://www.projectpro.io/article/build-an-ai-agent-with-crewai/1095>)
 - 📝 [How to Build an LLM Agent using OpenAI API](<https://www.projectpro.io/article/llm-agents/1013>)
-- 📝 [How to Build Generative AI Applications](https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098)
-
-
+- 📝 [How to Build Generative AI Applications](<https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098>)
+- 📝 [How to Build Agentic RAGs With Smolagents?](<https://www.projectpro.io/article/build-agentic-rags-with-smolagents/1094>)
 
 ## **🌟 Applications and Use Cases**  
 Explore how Agentic AI is transforming industries.  
@@ -62,6 +60,7 @@ Explore how Agentic AI is transforming industries.
 - 📝 [Generative AI Projects](<https://www.projectpro.io/article/generative-ai-projects/1004>)
 - 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
 - 📝 [LLM Project Ideas](<https://www.projectpro.io/article/llm-project-ideas/881>)
+- 📝 [How to Build Agentic Workflows for AI Projects?](<https://www.projectpro.io/article/agentic-workflows/1092>)
 
 ## **🚀 Projects to Elevate Your Learning**  
 Hands-on learning is the best way to master Agentic AI! Start with these beginner-to-advanced projects.  
