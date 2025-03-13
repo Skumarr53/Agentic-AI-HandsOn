@@ -53,6 +53,7 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [How to Build Generative AI Applications](<https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098>)
 - 📝 [How to Build Agentic RAGs With Smolagents?](<https://www.projectpro.io/article/build-agentic-rags-with-smolagents/1094>)
 - 📝 [How to Build LangChain Agents?](<https://www.projectpro.io/project-use-case/anomaly-detection-with-deep-autoencoders-python>)
+- 📝 [LangGraph Tutorial for Beginners to Build AI Agents](<https://www.projectpro.io/article/langgraph/1109>)
 
 ## **🌟 Applications and Use Cases**  
 Explore how Agentic AI is transforming industries.  
