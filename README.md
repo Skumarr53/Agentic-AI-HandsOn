@@ -52,7 +52,7 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [How to Build an LLM Agent using OpenAI API](<https://www.projectpro.io/article/llm-agents/1013>)
 - 📝 [How to Build Generative AI Applications](<https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098>)
 - 📝 [How to Build Agentic RAGs With Smolagents?](<https://www.projectpro.io/article/build-agentic-rags-with-smolagents/1094>)
-- 📝 [How to Build LangChain Agents?](<https://www.projectpro.io/project-use-case/anomaly-detection-with-deep-autoencoders-python>)
+- 📝 [How to Build LangChain Agents?](<https://www.projectpro.io/article/how-to-build-langchain-agents/1099>)
 - 📝 [LangGraph Tutorial for Beginners to Build AI Agents](<https://www.projectpro.io/article/langgraph/1109>)
 
 ## **🌟 Applications and Use Cases**  
