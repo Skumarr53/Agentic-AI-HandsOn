@@ -39,6 +39,9 @@ Explore the various categories of AI agents and their characteristics.
 Learn about the best tools and libraries for building AI agents.  
 - 📝 [AI Agent Frameworks](<https://www.projectpro.io/article/ai-agent-frameworks/1068>) 
 - 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
+- 📝 [How to Use Langsmith with Hugging Face Models?](https://www.projectpro.io/article/langsmith/1122)
+- 📝 [LangChain vs LangGraph](https://www.projectpro.io/article/langchain-vs-langgraph/1123)
+- 📝 [How to Build Low-Code AI Projects with Langflow?](https://www.projectpro.io/article/langflow/1128)
 
 ## **🧠 Building and Deploying AI Agents**  
 Step-by-step guides and tutorials to help you create robust AI agents.  
@@ -63,6 +66,7 @@ Explore how Agentic AI is transforming industries.
 - 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
 - 📝 [LLM Project Ideas](<https://www.projectpro.io/article/llm-project-ideas/881>)
 - 📝 [How to Build Agentic Workflows for AI Projects?](<https://www.projectpro.io/article/agentic-workflows/1092>)
+- 📝 [Top CrewAI Projects](https://www.projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)
 
 ## **🚀 Projects to Elevate Your Learning**  
 Hands-on learning is the best way to master Agentic AI! Start with these beginner-to-advanced projects.  
@@ -74,6 +78,9 @@ Hands-on learning is the best way to master Agentic AI! Start with these beginne
 ## **🎁 Free Resources**  
 Get started with these amazing freebies!  
 - 📄 [Artificial Intelligence Project Idea](<https://www.projectpro.io/free-learning-resources/artificial-intelligence-mini-project-pdf>)
+- 📄 [Artificial Intelligence Interview Questions and Answers](https://www.projectpro.io/free-learning-resources/ai-interview-questions-and-answers-pdf)
+- 📄 [How to Build an LLM-Powered Data Analysis Agent?](https://www.projectpro.io/free-learning-resources/llm-data-analysis-agent-with-source-code)
+- 📄 [Agentic AI Interview Questions and Answers](https://www.projectpro.io/article/agentic-ai-interview-questions-and-answers/1127)
 
 To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
 
