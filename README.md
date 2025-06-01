@@ -27,7 +27,7 @@ Gain access to resources that cover:
 ## **📚 Fundamentals of Agentic AI**  
 Discover the basics of AI agents and how they work.
 
-- 📝 [What are Agentic AI](<https://www.projectpro.io/article/ai-agents/1076>)
+- 📝 [What are Agentic AI - Completed](<https://www.projectpro.io/article/ai-agents/1076>)
 - 📝 [How to learn about AI Agents](<https://www.projectpro.io/article/agentic-ai-learning-path/1091>)
 - 📝 [How Agentic AI Delivers ROI?](https://www.projectpro.io/podcast/title/business-benefits-of-agentic-ai)
 
